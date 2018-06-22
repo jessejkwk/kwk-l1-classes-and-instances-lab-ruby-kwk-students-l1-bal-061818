@@ -1,7 +1,6 @@
 class Dog
-  def initialize
-
-
-  end
+  fido 
+  snoopy
+  lassie
 
 end
